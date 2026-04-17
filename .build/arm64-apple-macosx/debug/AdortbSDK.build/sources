@@ -1,0 +1,13 @@
+/Users/taku-0035/github_ai/adortb-sdk-ios/Sources/AdortbSDK/AdLoader.swift
+/Users/taku-0035/github_ai/adortb-sdk-ios/Sources/AdortbSDK/AdRequest.swift
+/Users/taku-0035/github_ai/adortb-sdk-ios/Sources/AdortbSDK/AdResponse.swift
+/Users/taku-0035/github_ai/adortb-sdk-ios/Sources/AdortbSDK/AdSlot.swift
+/Users/taku-0035/github_ai/adortb-sdk-ios/Sources/AdortbSDK/AdortbConfig.swift
+/Users/taku-0035/github_ai/adortb-sdk-ios/Sources/AdortbSDK/AdortbSDK.swift
+/Users/taku-0035/github_ai/adortb-sdk-ios/Sources/AdortbSDK/BannerAdView.swift
+/Users/taku-0035/github_ai/adortb-sdk-ios/Sources/AdortbSDK/DeviceInfo.swift
+/Users/taku-0035/github_ai/adortb-sdk-ios/Sources/AdortbSDK/EventReporter.swift
+/Users/taku-0035/github_ai/adortb-sdk-ios/Sources/AdortbSDK/ImpressionTracker.swift
+/Users/taku-0035/github_ai/adortb-sdk-ios/Sources/AdortbSDK/NativeAd.swift
+/Users/taku-0035/github_ai/adortb-sdk-ios/Sources/AdortbSDK/PrivacyCompat.swift
+/Users/taku-0035/github_ai/adortb-sdk-ios/Sources/AdortbSDK/Utils/HTTPClient.swift

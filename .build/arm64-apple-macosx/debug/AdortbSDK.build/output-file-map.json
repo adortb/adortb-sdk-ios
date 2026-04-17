@@ -1,0 +1,96 @@
+{
+  "": {
+    "swift-dependencies": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/master.swiftdeps"
+  },
+  "/Users/taku-0035/github_ai/adortb-sdk-ios/Sources/AdortbSDK/AdLoader.swift": {
+    "dependencies": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/AdLoader.d",
+    "object": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/AdLoader.swift.o",
+    "swiftmodule": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/AdLoader~partial.swiftmodule",
+    "swift-dependencies": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/AdLoader.swiftdeps",
+    "diagnostics": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/AdLoader.dia"
+  },
+  "/Users/taku-0035/github_ai/adortb-sdk-ios/Sources/AdortbSDK/AdRequest.swift": {
+    "dependencies": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/AdRequest.d",
+    "object": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/AdRequest.swift.o",
+    "swiftmodule": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/AdRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/AdRequest.swiftdeps",
+    "diagnostics": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/AdRequest.dia"
+  },
+  "/Users/taku-0035/github_ai/adortb-sdk-ios/Sources/AdortbSDK/AdResponse.swift": {
+    "dependencies": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/AdResponse.d",
+    "object": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/AdResponse.swift.o",
+    "swiftmodule": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/AdResponse~partial.swiftmodule",
+    "swift-dependencies": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/AdResponse.swiftdeps",
+    "diagnostics": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/AdResponse.dia"
+  },
+  "/Users/taku-0035/github_ai/adortb-sdk-ios/Sources/AdortbSDK/AdSlot.swift": {
+    "dependencies": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/AdSlot.d",
+    "object": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/AdSlot.swift.o",
+    "swiftmodule": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/AdSlot~partial.swiftmodule",
+    "swift-dependencies": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/AdSlot.swiftdeps",
+    "diagnostics": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/AdSlot.dia"
+  },
+  "/Users/taku-0035/github_ai/adortb-sdk-ios/Sources/AdortbSDK/AdortbConfig.swift": {
+    "dependencies": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/AdortbConfig.d",
+    "object": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/AdortbConfig.swift.o",
+    "swiftmodule": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/AdortbConfig~partial.swiftmodule",
+    "swift-dependencies": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/AdortbConfig.swiftdeps",
+    "diagnostics": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/AdortbConfig.dia"
+  },
+  "/Users/taku-0035/github_ai/adortb-sdk-ios/Sources/AdortbSDK/AdortbSDK.swift": {
+    "dependencies": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/AdortbSDK.d",
+    "object": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/AdortbSDK.swift.o",
+    "swiftmodule": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/AdortbSDK~partial.swiftmodule",
+    "swift-dependencies": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/AdortbSDK.swiftdeps",
+    "diagnostics": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/AdortbSDK.dia"
+  },
+  "/Users/taku-0035/github_ai/adortb-sdk-ios/Sources/AdortbSDK/BannerAdView.swift": {
+    "dependencies": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/BannerAdView.d",
+    "object": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/BannerAdView.swift.o",
+    "swiftmodule": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/BannerAdView~partial.swiftmodule",
+    "swift-dependencies": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/BannerAdView.swiftdeps",
+    "diagnostics": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/BannerAdView.dia"
+  },
+  "/Users/taku-0035/github_ai/adortb-sdk-ios/Sources/AdortbSDK/DeviceInfo.swift": {
+    "dependencies": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/DeviceInfo.d",
+    "object": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/DeviceInfo.swift.o",
+    "swiftmodule": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/DeviceInfo~partial.swiftmodule",
+    "swift-dependencies": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/DeviceInfo.swiftdeps",
+    "diagnostics": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/DeviceInfo.dia"
+  },
+  "/Users/taku-0035/github_ai/adortb-sdk-ios/Sources/AdortbSDK/EventReporter.swift": {
+    "dependencies": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/EventReporter.d",
+    "object": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/EventReporter.swift.o",
+    "swiftmodule": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/EventReporter~partial.swiftmodule",
+    "swift-dependencies": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/EventReporter.swiftdeps",
+    "diagnostics": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/EventReporter.dia"
+  },
+  "/Users/taku-0035/github_ai/adortb-sdk-ios/Sources/AdortbSDK/ImpressionTracker.swift": {
+    "dependencies": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/ImpressionTracker.d",
+    "object": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/ImpressionTracker.swift.o",
+    "swiftmodule": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/ImpressionTracker~partial.swiftmodule",
+    "swift-dependencies": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/ImpressionTracker.swiftdeps",
+    "diagnostics": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/ImpressionTracker.dia"
+  },
+  "/Users/taku-0035/github_ai/adortb-sdk-ios/Sources/AdortbSDK/NativeAd.swift": {
+    "dependencies": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/NativeAd.d",
+    "object": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/NativeAd.swift.o",
+    "swiftmodule": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/NativeAd~partial.swiftmodule",
+    "swift-dependencies": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/NativeAd.swiftdeps",
+    "diagnostics": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/NativeAd.dia"
+  },
+  "/Users/taku-0035/github_ai/adortb-sdk-ios/Sources/AdortbSDK/PrivacyCompat.swift": {
+    "dependencies": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/PrivacyCompat.d",
+    "object": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/PrivacyCompat.swift.o",
+    "swiftmodule": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/PrivacyCompat~partial.swiftmodule",
+    "swift-dependencies": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/PrivacyCompat.swiftdeps",
+    "diagnostics": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/PrivacyCompat.dia"
+  },
+  "/Users/taku-0035/github_ai/adortb-sdk-ios/Sources/AdortbSDK/Utils/HTTPClient.swift": {
+    "dependencies": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/HTTPClient.d",
+    "object": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/HTTPClient.swift.o",
+    "swiftmodule": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/HTTPClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/HTTPClient.swiftdeps",
+    "diagnostics": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDK.build/HTTPClient.dia"
+  }
+}

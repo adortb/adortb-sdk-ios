@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDKTests.build/master.swiftdeps"
+  },
+  "/Users/taku-0035/github_ai/adortb-sdk-ios/Tests/AdortbSDKTests/AdortbSDKTests.swift": {
+    "dependencies": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDKTests.build/AdortbSDKTests.d",
+    "object": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDKTests.build/AdortbSDKTests.swift.o",
+    "swiftmodule": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDKTests.build/AdortbSDKTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDKTests.build/AdortbSDKTests.swiftdeps",
+    "diagnostics": "/Users/taku-0035/github_ai/adortb-sdk-ios/.build/arm64-apple-macosx/debug/AdortbSDKTests.build/AdortbSDKTests.dia"
+  }
+}
